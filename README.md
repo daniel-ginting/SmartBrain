@@ -21,3 +21,5 @@ Features and guideline:
 - ReactJS as framework
 - Clarifai API for the face detection
 - 
+
+https://smart-brain-daniel-2022.herokuapp.com/
