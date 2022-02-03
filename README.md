@@ -40,6 +40,26 @@ Features and user guideline:
 To clone this app:
 
 1. Run git clone on your terminal with the repo link.
+  ```bash
+git clone <my repo>
+```
+2. In the project directory, do
+```bash
+npm install
+```
+3. To run the app, do
+```bash
+npm start
+```
+
+## Feedback
+You can also countribute or give feedback on this project.
+
+Reach me on discord:\
+https://discordapp.com/users/796539553761984565
+
+God Bless You! 😇
+
 
 
 
