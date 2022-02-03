@@ -27,13 +27,20 @@ Features and user guideline:
 - And using magic provided by the API, a box will appear around the face indicating the face detection.
 - You can now signout or shutdown your machine and return back to the app by signing in with your account and your entry count will be saved.
 
-### Technologies
+## Technologies
 
 - ReactJS as framework
 - Clarifai API for the face detection
 - NodeJS for Back-end
 - ExpressJS for Server Framework
 - PostgreSQL as Database
-- 
+
+## Cloning The App
+
+To clone this app:
+
+1. Run git clone on your terminal with the repo link.
+
+
 
 
