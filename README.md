@@ -6,7 +6,7 @@ Hi There! This Face Recognition App enables user to detect faces in pictures.
 
 ## Quick Preview
 
-For a quick preview of the app, click the link below:
+For a quick preview of the app, click the link belo
 
 https://smart-brain-daniel-2022.herokuapp.com/
 
