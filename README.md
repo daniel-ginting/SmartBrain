@@ -14,7 +14,7 @@ https://smart-brain-daniel-2022.herokuapp.com/
 ## App Features
 
 Features and user guideline:
-- Open the app and first you'll be greeted by a Sign Up page.
+- Open the app and first you'll be greeted by a Sign Up pag
 - Already registered? Insert your Email and Password you used during the registration.
 - If you don't have an account yet, look at the top right page and you'll see a clickable Register text, press it.
 - Insert your Name, Email, and Password then click the Register button at the bottom.
