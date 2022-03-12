@@ -2,7 +2,7 @@
 
 ## Description
 
-Hi There! This Face Recognition App enables user to detect face
+Hi There! This Face Recognition App enables user to detect faces
 
 ## Quick Preview
 
